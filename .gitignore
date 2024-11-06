@@ -54,3 +54,6 @@ dkms.conf
 # Output and testing files
 src/main.c
 bin/
+
+#build things
+.vscode
